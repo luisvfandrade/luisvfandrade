@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👩‍🎓 I'm pursuing a Bachelor Degree in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
-- 🌱 I’m currently learning more about life!
+- 🌱 I’m currently learning more about life!!
 - 😄 Pronouns: he/him
 
 #### Languages and Tools:
